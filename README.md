@@ -4,6 +4,15 @@ An interactive, self-study web app for learning visual inspection of printed
 circuit boards against **IPC-A-600H** — 10 levels, lessons, figure galleries and
 quizzes. The UI and all content are in Spanish.
 
+The site also ships a second trainer, **IPC-A-610** (acceptability of electronic
+assemblies), as `IPC_610.html`. Both pages share a **"Normas" tab strip** in the
+header so you can switch between the two standards:
+
+| Tab | URL |
+| --- | --- |
+| 🟩 IPC-A-600H · Tarjetas impresas | `https://ojperdomoc.github.io/normasIPC/` |
+| 🔌 IPC-A-610 · Ensambles electrónicos | `https://ojperdomoc.github.io/normasIPC/IPC_610.html` |
+
 Everything ships as **one HTML file**: the lessons (`src/data.js`) and all 145
 figure crops (`src/images.js`, inlined as base64 data URIs) are baked into
 `src/app.html` at build time. There are no external requests, no CDN, no fonts
@@ -55,6 +64,7 @@ python3 build.py
 | Output | Contents |
 | --- | --- |
 | `dist/index.html` | the full app — **this is what GitHub Pages serves** |
+| `dist/IPC_610.html` | the IPC-A-610 trainer, copied verbatim from the repository root |
 | `dist/IPC-A-600H_Academia_Interactiva.html` | redirect, keeps old bookmarks working |
 | `dist/404.html` | redirect, sends any unknown URL back to the app |
 | `./index.html` | redirect, for the "deploy from a branch" option above |
@@ -63,6 +73,11 @@ python3 build.py
 `dist/` is git-ignored — it is regenerated on every push by the workflow. The two
 files in the repository root are tracked on purpose so the no-build option above
 keeps working.
+
+`IPC_610.html` has no build step: it is a single self-contained file that is
+edited in place and copied to `dist/` by `build.py`. The links between the two
+trainers are relative (`./index.html` ⇄ `./IPC_610.html`), so they work on
+GitHub Pages, from the repository root and from `file://`.
 
 `build.py` refuses to publish a broken page: it fails if a placeholder was left
 unsubstituted or if the output is under 1 MB (the real payload is ~3.2 MB).
@@ -74,6 +89,7 @@ unsubstituted or if the output is under 1 MB (the real payload is ~3.2 MB).
 | `src/app.html` | page template, CSS and app logic; contains the `/*__DATA__*/` and `/*__IMAGES__*/` placeholders |
 | `src/data.js` | levels, lessons and quiz questions — edit this to change teaching content |
 | `src/images.js` | generated: `const FIG_IMG = { "<figure>": "data:image/jpeg;base64,…" }` |
+| `IPC_610.html` | the IPC-A-610 trainer — a standalone page, edit directly (no rebuild needed for its own content) |
 
 After editing, run `python3 build.py` and commit the regenerated root
 `IPC-A-600H_Academia_Interactiva.html`.
@@ -100,3 +116,4 @@ Both scripts were written against a different directory layout (`uploads/*.pdf`,
 | Workflow fails at *Deploy to GitHub Pages* with 403/404 | **Settings → Pages → Source** is still *Deploy from a branch*; the two modes are mutually exclusive. |
 | Page loads but is blank | The committed build is stale or truncated — re-run `python3 build.py` and commit. |
 | Old link `…/IPC-A-600H_Academia_Interactiva.html` | Still valid; it forwards to the app. |
+| `…/normasIPC/IPC_610.html` bounces to the home page | The deployed `dist/` predates the IPC-A-610 tab — re-run the *Deploy to GitHub Pages* workflow (it now copies `IPC_610.html` into `dist/`). |

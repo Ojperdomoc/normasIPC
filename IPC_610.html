@@ -24,6 +24,16 @@ a{color:var(--acc)}
 /* HEADER */
 header.top{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);
   background:rgba(11,18,32,.82);border-bottom:1px solid var(--line)}
+/* Norm switcher: tabs that move between the IPC-A-600H and IPC-A-610 trainers */
+.normbar{border-bottom:1px solid var(--line);background:rgba(255,255,255,.02)}
+.normbar-inner{max-width:1120px;margin:0 auto;padding:0 20px;display:flex;align-items:center;gap:6px;min-height:38px;flex-wrap:wrap}
+.normbar .lbl{font-size:11px;font-weight:700;letter-spacing:.8px;color:var(--muted);margin-right:6px;text-transform:uppercase}
+.normtab{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border-radius:999px;font-size:13px;font-weight:700;
+  color:var(--muted);text-decoration:none;border:1px solid transparent;transition:.15s;white-space:nowrap}
+.normtab:hover{color:#fff;background:rgba(255,255,255,.06);border-color:var(--line)}
+.normtab[aria-current="page"]{color:#fff;background:linear-gradient(90deg,rgba(56,189,248,.28),rgba(129,140,248,.28));border-color:rgba(56,189,248,.45);cursor:default}
+.normtab small{font-weight:500;color:var(--muted);font-size:11px}
+@media(max-width:560px){.normbar .lbl,.normtab small{display:none}.normtab{padding:5px 10px;font-size:12px}}
 .top-inner{max-width:1120px;margin:0 auto;padding:12px 20px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
 .logo{display:flex;align-items:center;gap:12px;font-weight:800;letter-spacing:.2px}
 .logo-badge{width:44px;height:44px;border-radius:13px;display:grid;place-items:center;font-size:24px;
@@ -196,6 +206,13 @@ table.mini th{background:rgba(56,189,248,.1);color:var(--acc)}
 <body>
 
 <header class="top">
+  <nav class="normbar" aria-label="Normas IPC">
+    <div class="normbar-inner">
+      <span class="lbl">Normas</span>
+      <a class="normtab" href="./index.html">🟩 IPC-A-600H <small>· Tarjetas impresas</small></a>
+      <a class="normtab" href="./IPC_610.html" aria-current="page" onclick="go('inicio');return false">🔌 IPC-A-610 <small>· Ensambles electrónicos</small></a>
+    </div>
+  </nav>
   <div class="top-inner">
     <div class="logo">
       <div class="logo-badge">🔌</div>

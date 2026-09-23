@@ -15,10 +15,16 @@ Pages, which serves project sites from a sub-path such as
 Outputs
 -------
 dist/index.html                              full app  -> what GitHub Pages serves
+dist/IPC_610.html                            IPC-A-610 trainer (copied verbatim)
 dist/IPC-A-600H_Academia_Interactiva.html    redirect  -> keeps old bookmarks alive
 dist/404.html                                redirect  -> sends stray URLs to the app
 ./index.html                                 redirect  -> for "deploy from a branch"
 ./IPC-A-600H_Academia_Interactiva.html       full app  -> legacy standalone copy
+
+``IPC_610.html`` is a second, self-contained trainer (IPC-A-610, electronic
+assemblies) kept as a plain tracked file in the repository root. Both pages
+carry a "Normas" tab strip in their header that links to each other with
+relative URLs, so it must be shipped next to ``index.html`` in ``dist/``.
 
 ``dist/`` is the artifact uploaded by .github/workflows/deploy-pages.yml and is
 git-ignored. The two files written to the repository root are tracked on purpose:
@@ -39,6 +45,9 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, "src")
 DIST = os.path.join(ROOT, "dist")
 LEGACY_NAME = "IPC-A-600H_Academia_Interactiva.html"
+# Extra self-contained pages published as-is next to the app. Each one is
+# reachable from the "Normas" tab strip in the header.
+EXTRA_PAGES = ["IPC_610.html"]
 TITLE = "IPC-A-600H · Academia interactiva de inspección de PCB"
 
 # The real payload is ~3.2 MB. Anything far below that means a placeholder was
@@ -170,6 +179,12 @@ def main() -> int:
 
     # --- dist/: the GitHub Pages artifact (Actions deploy) -------------------
     written.append(("dist/index.html", write(os.path.join(DIST, "index.html"), app)))
+    for name in EXTRA_PAGES:
+        src = os.path.join(ROOT, name)
+        if not os.path.isfile(src):
+            sys.exit(f"build.py: missing extra page: {src}")
+        shutil.copyfile(src, os.path.join(DIST, name))
+        written.append((f"dist/{name}", os.path.getsize(src)))
     written.append((f"dist/{LEGACY_NAME}", write(
         os.path.join(DIST, LEGACY_NAME),
         redirect_page("./index.html",
