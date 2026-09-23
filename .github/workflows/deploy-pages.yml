@@ -39,6 +39,7 @@ jobs:
         run: |
           set -euo pipefail
           test -s dist/index.html
+          test -s dist/IPC_610.html
           test -s dist/404.html
           if grep -q '__DATA__\|__IMAGES__' dist/index.html; then
             echo "Unreplaced placeholder in dist/index.html" >&2; exit 1

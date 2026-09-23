@@ -22,6 +22,15 @@ b{color:#fff}
 
 /* Header */
 header{position:sticky;top:0;z-index:40;background:rgba(11,18,32,.88);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+/* Norm switcher: tabs that move between the IPC-A-600H and IPC-A-610 trainers */
+.normbar{border-bottom:1px solid var(--line);background:rgba(255,255,255,.02)}
+.normbar .wrap{display:flex;align-items:center;gap:6px;min-height:38px;flex-wrap:wrap}
+.normbar .lbl{font-size:11px;font-weight:700;letter-spacing:.8px;color:var(--muted);margin-right:6px;text-transform:uppercase}
+.normtab{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border-radius:999px;font-size:13px;font-weight:700;
+  color:var(--muted);text-decoration:none;border:1px solid transparent;transition:.15s;white-space:nowrap}
+.normtab:hover{color:#fff;background:var(--panel2);border-color:var(--line)}
+.normtab[aria-current="page"]{color:#fff;background:linear-gradient(90deg,rgba(16,185,129,.28),rgba(59,130,246,.28));border-color:rgba(16,185,129,.45);cursor:default}
+.normtab small{font-weight:500;color:var(--muted);font-size:11px}
 .hbar{display:flex;align-items:center;gap:16px;height:64px}
 .logo{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.2px;cursor:pointer}
 .logo svg{flex:none}
@@ -211,6 +220,8 @@ footer{color:var(--muted);font-size:12px;text-align:center;padding:26px 0 40px;b
 @media (max-width:560px){
   .logo small{display:none}
   .logo{font-size:14px}
+  .normbar .lbl,.normtab small{display:none}
+  .normtab{padding:5px 10px;font-size:12px}
   .hbar{gap:8px;height:58px}
   .hstats{gap:6px}
   .chip{padding:5px 9px;font-size:12px}
@@ -224,6 +235,13 @@ footer{color:var(--muted);font-size:12px;text-align:center;padding:26px 0 40px;b
 </head>
 <body>
 <header>
+  <nav class="normbar" aria-label="Normas IPC">
+    <div class="wrap">
+      <span class="lbl">Normas</span>
+      <a class="normtab" href="./index.html" aria-current="page" onclick="go('home');return false">🟩 IPC-A-600H <small>· Tarjetas impresas</small></a>
+      <a class="normtab" href="./IPC_610.html">🔌 IPC-A-610 <small>· Ensambles electrónicos</small></a>
+    </div>
+  </nav>
   <div class="wrap hbar">
     <div class="logo" onclick="go('home')">
       <svg width="36" height="36" viewBox="0 0 36 36"><rect x="2" y="2" width="32" height="32" rx="8" fill="#0f5132"/><rect x="2" y="2" width="32" height="32" rx="8" fill="none" stroke="#10b981" stroke-width="1.5"/><path d="M8 12h8v4h6M8 24h5v-4h9M22 16h6M22 20h6" stroke="#fbbf24" stroke-width="1.6" fill="none"/><circle cx="22" cy="16" r="2" fill="#e5e7eb"/><circle cx="22" cy="20" r="2" fill="#e5e7eb"/><circle cx="8" cy="12" r="1.6" fill="#fbbf24"/><circle cx="8" cy="24" r="1.6" fill="#fbbf24"/></svg>
