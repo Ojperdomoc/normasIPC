@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IPC-A-600H · Academia interactiva de inspección de PCB</title>
+<meta http-equiv="refresh" content="0; url=./IPC-A-600H_Academia_Interactiva.html">
+<style>
+html,body{height:100%;margin:0;background:#0b1220;color:#e6ecf8;
+font-family:"Segoe UI",system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif}
+main{min-height:100%;display:flex;align-items:center;justify-content:center;padding:24px}
+.card{max-width:460px;text-align:center;background:#111a2e;border:1px solid #233152;
+border-radius:14px;padding:28px}
+h1{font-size:19px;margin:0 0 8px}
+p{color:#93a3c3;font-size:14px;margin:0 0 18px;line-height:1.5}
+a{display:inline-block;background:#10b981;color:#04120c;font-weight:700;
+text-decoration:none;padding:10px 18px;border-radius:10px}
+</style>
+</head>
+<body>
+<main><div class="card">
+<h1>IPC-A-600H · Academia interactiva</h1>
+<p>Redirigiendo a la academia interactiva…</p>
+<p><a href="./IPC-A-600H_Academia_Interactiva.html">Abrir la academia</a></p>
+</div></main>
+<script>
+(function () {
+  var url = './IPC-A-600H_Academia_Interactiva.html';
+  // A file:// checkout has no site root to resolve against, so fall back to the
+  // sibling index.html instead of bouncing to the server root.
+  if (location.protocol === "file:" && url.charAt(0) === "/") url = "./index.html";
+  location.replace(url + location.hash);
+})();
+</script>
+</body>
+</html>
