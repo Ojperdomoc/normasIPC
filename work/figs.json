@@ -1,0 +1,3212 @@
+[
+ {
+  "page": 11,
+  "fig": "2111a",
+  "title": "2.1.1.1 Nonmetallic Burrs",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p011_2111a.jpg",
+  "w": 434,
+  "h": 294
+ },
+ {
+  "page": 11,
+  "fig": "2111b",
+  "title": "2.1.1.1 Nonmetallic Burrs",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p011_2111b.jpg",
+  "w": 434,
+  "h": 297
+ },
+ {
+  "page": 11,
+  "fig": "2111c",
+  "title": "2.1.1.1 Nonmetallic Burrs",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p011_2111c.jpg",
+  "w": 434,
+  "h": 297
+ },
+ {
+  "page": 12,
+  "fig": "2112a",
+  "title": "2.1.1.2 Metallic Burrs",
+  "cat": "Target Condition/Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p012_2112a.jpg",
+  "w": 435,
+  "h": 325
+ },
+ {
+  "page": 12,
+  "fig": "2112b",
+  "title": "2.1.1.2 Metallic Burrs",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p012_2112b.jpg",
+  "w": 435,
+  "h": 305
+ },
+ {
+  "page": 13,
+  "fig": "212a",
+  "title": "2.1.2 Nicks",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p013_212a.jpg",
+  "w": 434,
+  "h": 281
+ },
+ {
+  "page": 13,
+  "fig": "212b",
+  "title": "2.1.2 Nicks",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p013_212b.jpg",
+  "w": 434,
+  "h": 282
+ },
+ {
+  "page": 13,
+  "fig": "212c",
+  "title": "2.1.2 Nicks",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p013_212c.jpg",
+  "w": 434,
+  "h": 280
+ },
+ {
+  "page": 14,
+  "fig": "213a",
+  "title": "2.1.3 Haloing",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p014_213a.jpg",
+  "w": 435,
+  "h": 293
+ },
+ {
+  "page": 14,
+  "fig": "213b",
+  "title": "2.1.3 Haloing",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p014_213b.jpg",
+  "w": 433,
+  "h": 292
+ },
+ {
+  "page": 14,
+  "fig": "213c",
+  "title": "2.1.3 Haloing",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p014_213c.jpg",
+  "w": 435,
+  "h": 290
+ },
+ {
+  "page": 16,
+  "fig": "221a",
+  "title": "2.2.1 Weave Exposure",
+  "cat": "(cont) Acceptable - Class 3",
+  "kind": "drawing",
+  "file": "work/figs/p016_221a.jpg",
+  "w": 496,
+  "h": 246
+ },
+ {
+  "page": 16,
+  "fig": "221b",
+  "title": "2.2.1 Weave Exposure",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p016_221b.jpg",
+  "w": 435,
+  "h": 288
+ },
+ {
+  "page": 17,
+  "fig": "222a",
+  "title": "2.2.2 Weave Texture",
+  "cat": "(cont) Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p017_222a.jpg",
+  "w": 496,
+  "h": 246
+ },
+ {
+  "page": 17,
+  "fig": "222b",
+  "title": "2.2.2 Weave Texture",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p017_222b.jpg",
+  "w": 431,
+  "h": 442
+ },
+ {
+  "page": 17,
+  "fig": "222b",
+  "title": "2.2.2 Weave Texture",
+  "cat": "(cont) Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p017_222b.jpg",
+  "w": 516,
+  "h": 346
+ },
+ {
+  "page": 18,
+  "fig": "223a",
+  "title": "2.2.3 Exposed/Disrupted Fibers",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p018_223a.jpg",
+  "w": 435,
+  "h": 297
+ },
+ {
+  "page": 18,
+  "fig": "223b",
+  "title": "2.2.3 Exposed/Disrupted Fibers",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p018_223b.jpg",
+  "w": 435,
+  "h": 291
+ },
+ {
+  "page": 19,
+  "fig": "224a",
+  "title": "2.2.4 Pits and Voids",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p019_224a.jpg",
+  "w": 430,
+  "h": 292
+ },
+ {
+  "page": 19,
+  "fig": "224b",
+  "title": "2.2.4 Pits and Voids",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p019_224b.jpg",
+  "w": 433,
+  "h": 295
+ },
+ {
+  "page": 19,
+  "fig": "224c",
+  "title": "2.2.4 Pits and Voids",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p019_224c.jpg",
+  "w": 434,
+  "h": 291
+ },
+ {
+  "page": 22,
+  "fig": "23a",
+  "title": "Introduction (cont.)",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p022_23a.jpg",
+  "w": 496,
+  "h": 224
+ },
+ {
+  "page": 22,
+  "fig": "23b",
+  "title": "Introduction (cont.)",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p022_23b.jpg",
+  "w": 496,
+  "h": 207
+ },
+ {
+  "page": 22,
+  "fig": "23c",
+  "title": "Introduction (cont.)",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p022_23c.jpg",
+  "w": 496,
+  "h": 145
+ },
+ {
+  "page": 23,
+  "fig": "231b",
+  "title": "2.3.1 Measling",
+  "cat": "(cont) Target - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p023_231b.jpg",
+  "w": 496,
+  "h": 339
+ },
+ {
+  "page": 23,
+  "fig": "231a",
+  "title": "2.3.1 Measling",
+  "cat": "(cont) Target - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p023_231a.jpg",
+  "w": 496,
+  "h": 71
+ },
+ {
+  "page": 23,
+  "fig": "231c",
+  "title": "2.3.1 Measling",
+  "cat": "Target - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p023_231c.jpg",
+  "w": 371,
+  "h": 228
+ },
+ {
+  "page": 23,
+  "fig": "231d",
+  "title": "2.3.1 Measling",
+  "cat": "Process Indicator - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p023_231d.jpg",
+  "w": 370,
+  "h": 263
+ },
+ {
+  "page": 24,
+  "fig": "232a",
+  "title": "2.3.2 Crazing",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p024_232a.jpg",
+  "w": 436,
+  "h": 264
+ },
+ {
+  "page": 24,
+  "fig": "232c",
+  "title": "2.3.2 Crazing",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p024_232c.jpg",
+  "w": 431,
+  "h": 216
+ },
+ {
+  "page": 24,
+  "fig": "232d",
+  "title": "2.3.2 Crazing",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p024_232d.jpg",
+  "w": 435,
+  "h": 281
+ },
+ {
+  "page": 24,
+  "fig": "232b",
+  "title": "2.3.2 Crazing",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p024_232b.jpg",
+  "w": 516,
+  "h": 285
+ },
+ {
+  "page": 25,
+  "fig": "232e",
+  "title": "2.3.2 Crazing (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p025_232e.jpg",
+  "w": 435,
+  "h": 273
+ },
+ {
+  "page": 26,
+  "fig": "233b",
+  "title": "2.3.3 Delamination/Blister",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p026_233b.jpg",
+  "w": 435,
+  "h": 251
+ },
+ {
+  "page": 26,
+  "fig": "233c",
+  "title": "2.3.3 Delamination/Blister",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p026_233c.jpg",
+  "w": 435,
+  "h": 228
+ },
+ {
+  "page": 26,
+  "fig": "233a",
+  "title": "2.3.3 Delamination/Blister",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p026_233a.jpg",
+  "w": 516,
+  "h": 170
+ },
+ {
+  "page": 27,
+  "fig": "233d",
+  "title": "2.3.3 Delamination/Blister (cont.)",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p027_233d.jpg",
+  "w": 434,
+  "h": 227
+ },
+ {
+  "page": 27,
+  "fig": "233e",
+  "title": "2.3.3 Delamination/Blister (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p027_233e.jpg",
+  "w": 434,
+  "h": 326
+ },
+ {
+  "page": 28,
+  "fig": "234a",
+  "title": "2.3.4 Foreign Inclusions",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p028_234a.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 28,
+  "fig": "234b",
+  "title": "2.3.4 Foreign Inclusions",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p028_234b.jpg",
+  "w": 435,
+  "h": 315
+ },
+ {
+  "page": 29,
+  "fig": "234c",
+  "title": "2.3.4 Foreign Inclusions (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p029_234c.jpg",
+  "w": 434,
+  "h": 316
+ },
+ {
+  "page": 30,
+  "fig": "241a",
+  "title": "2.4.1 Nonwetting",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p030_241a.jpg",
+  "w": 496,
+  "h": 321
+ },
+ {
+  "page": 30,
+  "fig": "241b",
+  "title": "2.4.1 Nonwetting",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p030_241b.jpg",
+  "w": 435,
+  "h": 293
+ },
+ {
+  "page": 30,
+  "fig": "241c",
+  "title": "2.4.1 Nonwetting",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p030_241c.jpg",
+  "w": 435,
+  "h": 293
+ },
+ {
+  "page": 31,
+  "fig": "242a",
+  "title": "2.4.2 Dewetting",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p031_242a.jpg",
+  "w": 496,
+  "h": 365
+ },
+ {
+  "page": 31,
+  "fig": "242b",
+  "title": "2.4.2 Dewetting",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p031_242b.jpg",
+  "w": 434,
+  "h": 232
+ },
+ {
+  "page": 31,
+  "fig": "242c",
+  "title": "2.4.2 Dewetting",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p031_242c.jpg",
+  "w": 434,
+  "h": 265
+ },
+ {
+  "page": 32,
+  "fig": "242d",
+  "title": "2.4.2 Dewetting (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p032_242d.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 33,
+  "fig": "251a",
+  "title": "2.5.1 Nodules/Burrs",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p033_251a.jpg",
+  "w": 433,
+  "h": 295
+ },
+ {
+  "page": 33,
+  "fig": "251b",
+  "title": "2.5.1 Nodules/Burrs",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p033_251b.jpg",
+  "w": 432,
+  "h": 295
+ },
+ {
+  "page": 33,
+  "fig": "251c",
+  "title": "2.5.1 Nodules/Burrs",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p033_251c.jpg",
+  "w": 434,
+  "h": 296
+ },
+ {
+  "page": 34,
+  "fig": "252a",
+  "title": "2.5.2 Pink Ring",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p034_252a.jpg",
+  "w": 436,
+  "h": 324
+ },
+ {
+  "page": 35,
+  "fig": "253a",
+  "title": "2.5.3 Voids \u2013 Copper Plating",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p035_253a.jpg",
+  "w": 434,
+  "h": 225
+ },
+ {
+  "page": 35,
+  "fig": "253b",
+  "title": "2.5.3 Voids \u2013 Copper Plating",
+  "cat": "Acceptable - Class 2",
+  "kind": "photo",
+  "file": "work/figs/p035_253b.jpg",
+  "w": 434,
+  "h": 225
+ },
+ {
+  "page": 35,
+  "fig": "253c",
+  "title": "2.5.3 Voids \u2013 Copper Plating",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p035_253c.jpg",
+  "w": 434,
+  "h": 225
+ },
+ {
+  "page": 35,
+  "fig": "253d",
+  "title": "2.5.3 Voids \u2013 Copper Plating",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p035_253d.jpg",
+  "w": 434,
+  "h": 224
+ },
+ {
+  "page": 36,
+  "fig": "254a",
+  "title": "2.5.4 Voids \u2013 Finished Coating",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p036_254a.jpg",
+  "w": 436,
+  "h": 220
+ },
+ {
+  "page": 36,
+  "fig": "254b",
+  "title": "2.5.4 Voids \u2013 Finished Coating",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p036_254b.jpg",
+  "w": 436,
+  "h": 219
+ },
+ {
+  "page": 36,
+  "fig": "254c",
+  "title": "2.5.4 Voids \u2013 Finished Coating",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p036_254c.jpg",
+  "w": 436,
+  "h": 219
+ },
+ {
+  "page": 37,
+  "fig": "255a",
+  "title": "2.5.5 Lifted Lands \u2013 (Visual)",
+  "cat": "Target Condition/Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p037_255a.jpg",
+  "w": 433,
+  "h": 278
+ },
+ {
+  "page": 37,
+  "fig": "255b",
+  "title": "2.5.5 Lifted Lands \u2013 (Visual)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p037_255b.jpg",
+  "w": 433,
+  "h": 326
+ },
+ {
+  "page": 37,
+  "fig": "255c",
+  "title": "2.5.5 Lifted Lands \u2013 (Visual)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p037_255c.jpg",
+  "w": 432,
+  "h": 281
+ },
+ {
+  "page": 38,
+  "fig": "256a",
+  "title": "2.5.6 Cap Plating of Filled Holes \u2013 (Visual)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p038_256a.jpg",
+  "w": 435,
+  "h": 327
+ },
+ {
+  "page": 38,
+  "fig": "256b",
+  "title": "2.5.6 Cap Plating of Filled Holes \u2013 (Visual)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p038_256b.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 38,
+  "fig": "256c",
+  "title": "2.5.6 Cap Plating of Filled Holes \u2013 (Visual)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p038_256c.jpg",
+  "w": 435,
+  "h": 325
+ },
+ {
+  "page": 39,
+  "fig": "256d",
+  "title": "2.5.6 Cap Plating of Filled Holes \u2013 (Visual) (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p039_256d.jpg",
+  "w": 434,
+  "h": 325
+ },
+ {
+  "page": 40,
+  "fig": "261a",
+  "title": "2.6.1 Haloing",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p040_261a.jpg",
+  "w": 435,
+  "h": 316
+ },
+ {
+  "page": 40,
+  "fig": "261b",
+  "title": "2.6.1 Haloing",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p040_261b.jpg",
+  "w": 435,
+  "h": 282
+ },
+ {
+  "page": 40,
+  "fig": "261c",
+  "title": "2.6.1 Haloing",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p040_261c.jpg",
+  "w": 435,
+  "h": 281
+ },
+ {
+  "page": 41,
+  "fig": "271a",
+  "title": "2.7.1 Surface Plating \u2013 Plated Contacts",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p041_271a.jpg",
+  "w": 434,
+  "h": 253
+ },
+ {
+  "page": 41,
+  "fig": "271b",
+  "title": "2.7.1 Surface Plating \u2013 Plated Contacts",
+  "cat": "Acceptable - Class 1, 2, 3 (Critical Contact Area)",
+  "kind": "photo",
+  "file": "work/figs/p041_271b.jpg",
+  "w": 434,
+  "h": 273
+ },
+ {
+  "page": 42,
+  "fig": "271c",
+  "title": "2.7.1 Surface Plating \u2013 Plated Contacts (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p042_271c.jpg",
+  "w": 435,
+  "h": 404
+ },
+ {
+  "page": 43,
+  "fig": "2711a",
+  "title": "2.7.1.1 Surface Plating \u2013 Wire Bond Pads",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p043_2711a.jpg",
+  "w": 434,
+  "h": 326
+ },
+ {
+  "page": 43,
+  "fig": "2711b",
+  "title": "2.7.1.1 Surface Plating \u2013 Wire Bond Pads",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p043_2711b.jpg",
+  "w": 496,
+  "h": 521
+ },
+ {
+  "page": 44,
+  "fig": "2711c",
+  "title": "2.7.1.1 Surface Plating \u2013 Wire Bond Pads (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p044_2711c.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 44,
+  "fig": "2711d",
+  "title": "2.7.1.1 Surface Plating \u2013 Wire Bond Pads (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p044_2711d.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 44,
+  "fig": "2711e",
+  "title": "2.7.1.1 Surface Plating \u2013 Wire Bond Pads (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p044_2711e.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 45,
+  "fig": "272a",
+  "title": "2.7.2 Burrs on Edge-Board Contacts",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p045_272a.jpg",
+  "w": 434,
+  "h": 294
+ },
+ {
+  "page": 45,
+  "fig": "272b",
+  "title": "2.7.2 Burrs on Edge-Board Contacts",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p045_272b.jpg",
+  "w": 435,
+  "h": 292
+ },
+ {
+  "page": 45,
+  "fig": "272c",
+  "title": "2.7.2 Burrs on Edge-Board Contacts",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p045_272c.jpg",
+  "w": 436,
+  "h": 296
+ },
+ {
+  "page": 46,
+  "fig": "273a",
+  "title": "2.7.3 Adhesion of Overplate",
+  "cat": "Target/Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p046_273a.jpg",
+  "w": 437,
+  "h": 358
+ },
+ {
+  "page": 46,
+  "fig": "273c",
+  "title": "2.7.3 Adhesion of Overplate",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p046_273c.jpg",
+  "w": 435,
+  "h": 358
+ },
+ {
+  "page": 46,
+  "fig": "273b",
+  "title": "2.7.3 Adhesion of Overplate",
+  "cat": "Target/Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p046_273b.jpg",
+  "w": 516,
+  "h": 656
+ },
+ {
+  "page": 47,
+  "fig": "28a",
+  "title": "Introduction",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p047_28a.jpg",
+  "w": 435,
+  "h": 198
+ },
+ {
+  "page": 48,
+  "fig": "281a",
+  "title": "2.8.1 Etched Marking",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p048_281a.jpg",
+  "w": 434,
+  "h": 216
+ },
+ {
+  "page": 48,
+  "fig": "281b",
+  "title": "2.8.1 Etched Marking",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p048_281b.jpg",
+  "w": 435,
+  "h": 230
+ },
+ {
+  "page": 49,
+  "fig": "281c",
+  "title": "2.8.1 Etched Marking (cont.)",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p049_281c.jpg",
+  "w": 434,
+  "h": 218
+ },
+ {
+  "page": 49,
+  "fig": "281d",
+  "title": "2.8.1 Etched Marking (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p049_281d.jpg",
+  "w": 432,
+  "h": 182
+ },
+ {
+  "page": 50,
+  "fig": "282a",
+  "title": "2.8.2 Screened or Ink Stamped Marking",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p050_282a.jpg",
+  "w": 437,
+  "h": 199
+ },
+ {
+  "page": 50,
+  "fig": "282b",
+  "title": "2.8.2 Screened or Ink Stamped Marking",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p050_282b.jpg",
+  "w": 496,
+  "h": 249
+ },
+ {
+  "page": 50,
+  "fig": "282c",
+  "title": "2.8.2 Screened or Ink Stamped Marking",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p050_282c.jpg",
+  "w": 496,
+  "h": 240
+ },
+ {
+  "page": 51,
+  "fig": "282d",
+  "title": "2.8.2 Screened or Ink Stamped Marking (cont.)",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p051_282d.jpg",
+  "w": 434,
+  "h": 197
+ },
+ {
+  "page": 53,
+  "fig": "291a",
+  "title": "2.9.1 Coverage Over Conductors (Skip Coverage)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p053_291a.jpg",
+  "w": 432,
+  "h": 290
+ },
+ {
+  "page": 53,
+  "fig": "291b",
+  "title": "2.9.1 Coverage Over Conductors (Skip Coverage)",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p053_291b.jpg",
+  "w": 432,
+  "h": 181
+ },
+ {
+  "page": 53,
+  "fig": "291c",
+  "title": "2.9.1 Coverage Over Conductors (Skip Coverage)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p053_291c.jpg",
+  "w": 433,
+  "h": 295
+ },
+ {
+  "page": 54,
+  "fig": "292b",
+  "title": "2.9.2 Registration to Holes (All Finishes)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p054_292b.jpg",
+  "w": 496,
+  "h": 186
+ },
+ {
+  "page": 54,
+  "fig": "292a",
+  "title": "2.9.2 Registration to Holes (All Finishes)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p054_292a.jpg",
+  "w": 496,
+  "h": 54
+ },
+ {
+  "page": 54,
+  "fig": "292d",
+  "title": "2.9.2 Registration to Holes (All Finishes)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p054_292d.jpg",
+  "w": 496,
+  "h": 207
+ },
+ {
+  "page": 54,
+  "fig": "292c",
+  "title": "2.9.2 Registration to Holes (All Finishes)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p054_292c.jpg",
+  "w": 496,
+  "h": 31
+ },
+ {
+  "page": 54,
+  "fig": "292f",
+  "title": "2.9.2 Registration to Holes (All Finishes)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p054_292f.jpg",
+  "w": 496,
+  "h": 229
+ },
+ {
+  "page": 54,
+  "fig": "292e",
+  "title": "2.9.2 Registration to Holes (All Finishes)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p054_292e.jpg",
+  "w": 496,
+  "h": 34
+ },
+ {
+  "page": 55,
+  "fig": "293a",
+  "title": "2.9.3 Registration to Other Conductive Patterns",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p055_293a.jpg",
+  "w": 434,
+  "h": 279
+ },
+ {
+  "page": 55,
+  "fig": "293b",
+  "title": "2.9.3 Registration to Other Conductive Patterns",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p055_293b.jpg",
+  "w": 434,
+  "h": 276
+ },
+ {
+  "page": 55,
+  "fig": "293c",
+  "title": "2.9.3 Registration to Other Conductive Patterns",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p055_293c.jpg",
+  "w": 434,
+  "h": 296
+ },
+ {
+  "page": 57,
+  "fig": "2932a",
+  "title": "2.9.3.2 Ball Grid Array (Copper-Defined Lands)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p057_2932a.jpg",
+  "w": 145,
+  "h": 308
+ },
+ {
+  "page": 57,
+  "fig": "2932b",
+  "title": "2.9.3.2 Ball Grid Array (Copper-Defined Lands)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p057_2932b.jpg",
+  "w": 434,
+  "h": 326
+ },
+ {
+  "page": 58,
+  "fig": "2933a",
+  "title": "2.9.3.3 Ball Grid Array (Solder Dam)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p058_2933a.jpg",
+  "w": 138,
+  "h": 137
+ },
+ {
+  "page": 59,
+  "fig": "294a",
+  "title": "2.9.4 Blisters/Delamination",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p059_294a.jpg",
+  "w": 434,
+  "h": 286
+ },
+ {
+  "page": 59,
+  "fig": "294b",
+  "title": "2.9.4 Blisters/Delamination",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p059_294b.jpg",
+  "w": 435,
+  "h": 295
+ },
+ {
+  "page": 59,
+  "fig": "294c",
+  "title": "2.9.4 Blisters/Delamination",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p059_294c.jpg",
+  "w": 434,
+  "h": 344
+ },
+ {
+  "page": 60,
+  "fig": "294d",
+  "title": "2.9.4 Blisters/Delamination (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p060_294d.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 61,
+  "fig": "295a",
+  "title": "2.9.5 Adhesion (Flaking or Peeling)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p061_295a.jpg",
+  "w": 434,
+  "h": 277
+ },
+ {
+  "page": 61,
+  "fig": "295b",
+  "title": "2.9.5 Adhesion (Flaking or Peeling)",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p061_295b.jpg",
+  "w": 434,
+  "h": 282
+ },
+ {
+  "page": 61,
+  "fig": "295c",
+  "title": "2.9.5 Adhesion (Flaking or Peeling)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p061_295c.jpg",
+  "w": 432,
+  "h": 326
+ },
+ {
+  "page": 62,
+  "fig": "296a",
+  "title": "2.9.6 Waves/Wrinkles/Ripples",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p062_296a.jpg",
+  "w": 436,
+  "h": 296
+ },
+ {
+  "page": 62,
+  "fig": "296b",
+  "title": "2.9.6 Waves/Wrinkles/Ripples",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p062_296b.jpg",
+  "w": 437,
+  "h": 292
+ },
+ {
+  "page": 62,
+  "fig": "296c",
+  "title": "2.9.6 Waves/Wrinkles/Ripples",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p062_296c.jpg",
+  "w": 437,
+  "h": 296
+ },
+ {
+  "page": 63,
+  "fig": "297b",
+  "title": "2.9.7 Tenting (Via Holes)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p063_297b.jpg",
+  "w": 434,
+  "h": 167
+ },
+ {
+  "page": 63,
+  "fig": "297c",
+  "title": "2.9.7 Tenting (Via Holes)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p063_297c.jpg",
+  "w": 434,
+  "h": 262
+ },
+ {
+  "page": 63,
+  "fig": "297a",
+  "title": "2.9.7 Tenting (Via Holes)",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p063_297a.jpg",
+  "w": 516,
+  "h": 354
+ },
+ {
+  "page": 64,
+  "fig": "298a",
+  "title": "2.9.8 Soda Strawing",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p064_298a.jpg",
+  "w": 433,
+  "h": 293
+ },
+ {
+  "page": 64,
+  "fig": "298c",
+  "title": "2.9.8 Soda Strawing",
+  "cat": "Acceptable - Class 1, 2",
+  "kind": "photo",
+  "file": "work/figs/p064_298c.jpg",
+  "w": 435,
+  "h": 293
+ },
+ {
+  "page": 64,
+  "fig": "298b",
+  "title": "2.9.8 Soda Strawing",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p064_298b.jpg",
+  "w": 516,
+  "h": 365
+ },
+ {
+  "page": 64,
+  "fig": "298d",
+  "title": "2.9.8 Soda Strawing",
+  "cat": "Acceptable - Class 3",
+  "kind": "drawing",
+  "file": "work/figs/p064_298d.jpg",
+  "w": 516,
+  "h": 463
+ },
+ {
+  "page": 65,
+  "fig": "298e",
+  "title": "2.9.8 Soda Strawing (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p065_298e.jpg",
+  "w": 435,
+  "h": 296
+ },
+ {
+  "page": 65,
+  "fig": "298f",
+  "title": "2.9.8 Soda Strawing (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p065_298f.jpg",
+  "w": 516,
+  "h": 199
+ },
+ {
+  "page": 67,
+  "fig": "21011a",
+  "title": "2.10.1.1 Conductor Width",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p067_21011a.jpg",
+  "w": 433,
+  "h": 272
+ },
+ {
+  "page": 67,
+  "fig": "21011b",
+  "title": "2.10.1.1 Conductor Width",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p067_21011b.jpg",
+  "w": 433,
+  "h": 273
+ },
+ {
+  "page": 67,
+  "fig": "21011c",
+  "title": "2.10.1.1 Conductor Width",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p067_21011c.jpg",
+  "w": 435,
+  "h": 251
+ },
+ {
+  "page": 67,
+  "fig": "21011d",
+  "title": "2.10.1.1 Conductor Width",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p067_21011d.jpg",
+  "w": 434,
+  "h": 219
+ },
+ {
+  "page": 68,
+  "fig": "21012a",
+  "title": "2.10.1.2 Conductor Spacing",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p068_21012a.jpg",
+  "w": 433,
+  "h": 250
+ },
+ {
+  "page": 68,
+  "fig": "21012b",
+  "title": "2.10.1.2 Conductor Spacing",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p068_21012b.jpg",
+  "w": 433,
+  "h": 261
+ },
+ {
+  "page": 68,
+  "fig": "21012c",
+  "title": "2.10.1.2 Conductor Spacing",
+  "cat": "Acceptable - Class 1, 2",
+  "kind": "photo",
+  "file": "work/figs/p068_21012c.jpg",
+  "w": 433,
+  "h": 260
+ },
+ {
+  "page": 68,
+  "fig": "21012d",
+  "title": "2.10.1.2 Conductor Spacing",
+  "cat": "Nonconforming - Class 1, 2 ,3",
+  "kind": "photo",
+  "file": "work/figs/p068_21012d.jpg",
+  "w": 433,
+  "h": 259
+ },
+ {
+  "page": 69,
+  "fig": "2102a",
+  "title": "2.10.2 External Annular Ring \u2013 Measurement",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p069_2102a.jpg",
+  "w": 496,
+  "h": 500
+ },
+ {
+  "page": 69,
+  "fig": "2102c",
+  "title": "2.10.2 External Annular Ring \u2013 Measurement",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p069_2102c.jpg",
+  "w": 331,
+  "h": 149
+ },
+ {
+  "page": 69,
+  "fig": "2102b",
+  "title": "2.10.2 External Annular Ring \u2013 Measurement",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p069_2102b.jpg",
+  "w": 516,
+  "h": 565
+ },
+ {
+  "page": 69,
+  "fig": "2102d",
+  "title": "2.10.2 External Annular Ring \u2013 Measurement",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p069_2102d.jpg",
+  "w": 435,
+  "h": 286
+ },
+ {
+  "page": 70,
+  "fig": "2103a",
+  "title": "2.10.3 External Annular Ring \u2013 Supported Holes",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p070_2103a.jpg",
+  "w": 228,
+  "h": 104
+ },
+ {
+  "page": 70,
+  "fig": "2103b",
+  "title": "2.10.3 External Annular Ring \u2013 Supported Holes",
+  "cat": "Acceptable - Class 3",
+  "kind": "drawing",
+  "file": "work/figs/p070_2103b.jpg",
+  "w": 496,
+  "h": 370
+ },
+ {
+  "page": 70,
+  "fig": "2103c",
+  "title": "2.10.3 External Annular Ring \u2013 Supported Holes",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p070_2103c.jpg",
+  "w": 317,
+  "h": 207
+ },
+ {
+  "page": 71,
+  "fig": "2103d",
+  "title": "2.10.3 External Annular Ring \u2013 Supported Holes (cont.)",
+  "cat": "Acceptable - Class 2",
+  "kind": "drawing",
+  "file": "work/figs/p071_2103d.jpg",
+  "w": 496,
+  "h": 321
+ },
+ {
+  "page": 72,
+  "fig": "2104a",
+  "title": "2.10.4 External Annular Ring \u2013 Unsupported Holes",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p072_2104a.jpg",
+  "w": 247,
+  "h": 111
+ },
+ {
+  "page": 72,
+  "fig": "2104b",
+  "title": "2.10.4 External Annular Ring \u2013 Unsupported Holes",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p072_2104b.jpg",
+  "w": 228,
+  "h": 268
+ },
+ {
+  "page": 72,
+  "fig": "2104c",
+  "title": "2.10.4 External Annular Ring \u2013 Unsupported Holes",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p072_2104c.jpg",
+  "w": 435,
+  "h": 287
+ },
+ {
+  "page": 74,
+  "fig": "211a",
+  "title": "2.11 Flatness (cont.)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p074_211a.jpg",
+  "w": 496,
+  "h": 311
+ },
+ {
+  "page": 74,
+  "fig": "211b",
+  "title": "2.11 Flatness (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p074_211b.jpg",
+  "w": 496,
+  "h": 359
+ },
+ {
+  "page": 76,
+  "fig": "311a",
+  "title": "Introduction",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p076_311a.jpg",
+  "w": 387,
+  "h": 189
+ },
+ {
+  "page": 76,
+  "fig": "311b",
+  "title": "Introduction",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p076_311b.jpg",
+  "w": 429,
+  "h": 289
+ },
+ {
+  "page": 77,
+  "fig": "311c",
+  "title": "3.1.1 Laminate Voids/Cracks (Outside Thermal Zone) (cont.)",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p077_311c.jpg",
+  "w": 436,
+  "h": 296
+ },
+ {
+  "page": 77,
+  "fig": "311d",
+  "title": "3.1.1 Laminate Voids/Cracks (Outside Thermal Zone) (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p077_311d.jpg",
+  "w": 434,
+  "h": 276
+ },
+ {
+  "page": 77,
+  "fig": "311e",
+  "title": "3.1.1 Laminate Voids/Cracks (Outside Thermal Zone) (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p077_311e.jpg",
+  "w": 434,
+  "h": 274
+ },
+ {
+  "page": 79,
+  "fig": "313a",
+  "title": "3.1.3 Clearance Hole, Unsupported, to Power/Ground Planes",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p079_313a.jpg",
+  "w": 496,
+  "h": 321
+ },
+ {
+  "page": 79,
+  "fig": "313c",
+  "title": "3.1.3 Clearance Hole, Unsupported, to Power/Ground Planes",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p079_313c.jpg",
+  "w": 496,
+  "h": 305
+ },
+ {
+  "page": 80,
+  "fig": "314a",
+  "title": "3.1.4 Delamination/Blister",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p080_314a.jpg",
+  "w": 436,
+  "h": 293
+ },
+ {
+  "page": 80,
+  "fig": "314b",
+  "title": "3.1.4 Delamination/Blister",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p080_314b.jpg",
+  "w": 435,
+  "h": 327
+ },
+ {
+  "page": 80,
+  "fig": "314c",
+  "title": "3.1.4 Delamination/Blister",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p080_314c.jpg",
+  "w": 435,
+  "h": 326
+ },
+ {
+  "page": 81,
+  "fig": "315a",
+  "title": "3.1.5 Etchback",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p081_315a.jpg",
+  "w": 434,
+  "h": 292
+ },
+ {
+  "page": 81,
+  "fig": "315b",
+  "title": "3.1.5 Etchback",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p081_315b.jpg",
+  "w": 516,
+  "h": 883
+ },
+ {
+  "page": 82,
+  "fig": "3151a",
+  "title": "3.1.5.1 Etchback",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p082_3151a.jpg",
+  "w": 435,
+  "h": 219
+ },
+ {
+  "page": 82,
+  "fig": "3151b",
+  "title": "3.1.5.1 Etchback",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p082_3151b.jpg",
+  "w": 435,
+  "h": 617
+ },
+ {
+  "page": 83,
+  "fig": "3151c",
+  "title": "3.1.5.1 Etchback (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p083_3151c.jpg",
+  "w": 434,
+  "h": 477
+ },
+ {
+  "page": 83,
+  "fig": "3151d",
+  "title": "3.1.5.1 Etchback (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p083_3151d.jpg",
+  "w": 432,
+  "h": 515
+ },
+ {
+  "page": 84,
+  "fig": "3152a",
+  "title": "3.1.5.2 Negative Etchback",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p084_3152a.jpg",
+  "w": 433,
+  "h": 285
+ },
+ {
+  "page": 84,
+  "fig": "3152b",
+  "title": "3.1.5.2 Negative Etchback",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p084_3152b.jpg",
+  "w": 433,
+  "h": 283
+ },
+ {
+  "page": 84,
+  "fig": "3152c",
+  "title": "3.1.5.2 Negative Etchback",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p084_3152c.jpg",
+  "w": 435,
+  "h": 466
+ },
+ {
+  "page": 85,
+  "fig": "316a",
+  "title": "3.1.6 Smear Removal",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p085_316a.jpg",
+  "w": 434,
+  "h": 532
+ },
+ {
+  "page": 85,
+  "fig": "316b",
+  "title": "3.1.6 Smear Removal",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p085_316b.jpg",
+  "w": 434,
+  "h": 446
+ },
+ {
+  "page": 86,
+  "fig": "316c",
+  "title": "3.1.6 Smear Removal (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p086_316c.jpg",
+  "w": 435,
+  "h": 449
+ },
+ {
+  "page": 87,
+  "fig": "317a",
+  "title": "3.1.7 Dielectric Material, Clearance, Metal Plane for Supported Holes",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p087_317a.jpg",
+  "w": 496,
+  "h": 365
+ },
+ {
+  "page": 88,
+  "fig": "318a",
+  "title": "3.1.8 Layer-to-Layer Spacing",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p088_318a.jpg",
+  "w": 496,
+  "h": 365
+ },
+ {
+  "page": 89,
+  "fig": "319a",
+  "title": "3.1.9 Resin Recession",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p089_319a.jpg",
+  "w": 434,
+  "h": 347
+ },
+ {
+  "page": 89,
+  "fig": "319b",
+  "title": "3.1.9 Resin Recession",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p089_319b.jpg",
+  "w": 432,
+  "h": 625
+ },
+ {
+  "page": 90,
+  "fig": "3110a",
+  "title": "3.1.10 Hole Wall Dielectric/Plated Barrel Separation (Hole Wall Pullaway)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p090_3110a.jpg",
+  "w": 433,
+  "h": 579
+ },
+ {
+  "page": 90,
+  "fig": "3110b",
+  "title": "3.1.10 Hole Wall Dielectric/Plated Barrel Separation (Hole Wall Pullaway)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p090_3110b.jpg",
+  "w": 433,
+  "h": 339
+ },
+ {
+  "page": 92,
+  "fig": "321a",
+  "title": "3.2.1 Etching Characteristics",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p092_321a.jpg",
+  "w": 131,
+  "h": 43
+ },
+ {
+  "page": 92,
+  "fig": "321b",
+  "title": "3.2.1 Etching Characteristics",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p092_321b.jpg",
+  "w": 263,
+  "h": 76
+ },
+ {
+  "page": 92,
+  "fig": "321c",
+  "title": "3.2.1 Etching Characteristics",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p092_321c.jpg",
+  "w": 343,
+  "h": 60
+ },
+ {
+  "page": 92,
+  "fig": "321d",
+  "title": "3.2.1 Etching Characteristics",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p092_321d.jpg",
+  "w": 263,
+  "h": 76
+ },
+ {
+  "page": 92,
+  "fig": "321e",
+  "title": "3.2.1 Etching Characteristics",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p092_321e.jpg",
+  "w": 344,
+  "h": 60
+ },
+ {
+  "page": 93,
+  "fig": "321f",
+  "title": "3.2.1 Etching Characteristics (cont.)",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p093_321f.jpg",
+  "w": 292,
+  "h": 91
+ },
+ {
+  "page": 93,
+  "fig": "321g",
+  "title": "3.2.1 Etching Characteristics (cont.)",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p093_321g.jpg",
+  "w": 231,
+  "h": 95
+ },
+ {
+  "page": 93,
+  "fig": "321h",
+  "title": "3.2.1 Etching Characteristics (cont.)",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p093_321h.jpg",
+  "w": 293,
+  "h": 72
+ },
+ {
+  "page": 93,
+  "fig": "321i",
+  "title": "3.2.1 Etching Characteristics (cont.)",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p093_321i.jpg",
+  "w": 516,
+  "h": 468
+ },
+ {
+  "page": 94,
+  "fig": "322a",
+  "title": "3.2.2 Print and Etch",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p094_322a.jpg",
+  "w": 425,
+  "h": 61
+ },
+ {
+  "page": 94,
+  "fig": "322b",
+  "title": "3.2.2 Print and Etch",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p094_322b.jpg",
+  "w": 356,
+  "h": 61
+ },
+ {
+  "page": 94,
+  "fig": "322c",
+  "title": "3.2.2 Print and Etch",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p094_322c.jpg",
+  "w": 288,
+  "h": 61
+ },
+ {
+  "page": 96,
+  "fig": "324a",
+  "title": "3.2.4 Foil Thickness \u2013 Internal Layers",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p096_324a.jpg",
+  "w": 496,
+  "h": 321
+ },
+ {
+  "page": 99,
+  "fig": "331a",
+  "title": "3.3.1 Annular Ring \u2013 Internal Layers",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p099_331a.jpg",
+  "w": 496,
+  "h": 981
+ },
+ {
+  "page": 100,
+  "fig": "331b",
+  "title": "3.3.1 Annular Ring \u2013 Internal Layers (cont.)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p100_331b.jpg",
+  "w": 437,
+  "h": 292
+ },
+ {
+  "page": 100,
+  "fig": "331c",
+  "title": "3.3.1 Annular Ring \u2013 Internal Layers (cont.)",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p100_331c.jpg",
+  "w": 437,
+  "h": 292
+ },
+ {
+  "page": 100,
+  "fig": "331d",
+  "title": "3.3.1 Annular Ring \u2013 Internal Layers (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p100_331d.jpg",
+  "w": 435,
+  "h": 317
+ },
+ {
+  "page": 101,
+  "fig": "332a",
+  "title": "3.3.2 Lifted Lands \u2013 (Cross-Sections)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p101_332a.jpg",
+  "w": 434,
+  "h": 219
+ },
+ {
+  "page": 101,
+  "fig": "332b",
+  "title": "3.3.2 Lifted Lands \u2013 (Cross-Sections)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p101_332b.jpg",
+  "w": 436,
+  "h": 271
+ },
+ {
+  "page": 102,
+  "fig": "333a",
+  "title": "3.3.3 Foil Crack \u2013 (Internal Foil) \u2018\u2018C\u2019\u2019 Crack",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p102_333a.jpg",
+  "w": 437,
+  "h": 294
+ },
+ {
+  "page": 102,
+  "fig": "333b",
+  "title": "3.3.3 Foil Crack \u2013 (Internal Foil) \u2018\u2018C\u2019\u2019 Crack",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p102_333b.jpg",
+  "w": 435,
+  "h": 315
+ },
+ {
+  "page": 102,
+  "fig": "333c",
+  "title": "3.3.3 Foil Crack \u2013 (Internal Foil) \u2018\u2018C\u2019\u2019 Crack",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p102_333c.jpg",
+  "w": 433,
+  "h": 294
+ },
+ {
+  "page": 103,
+  "fig": "334a",
+  "title": "3.3.4 Foil Crack (External Foil)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p103_334a.jpg",
+  "w": 220,
+  "h": 230
+ },
+ {
+  "page": 103,
+  "fig": "334b",
+  "title": "3.3.4 Foil Crack (External Foil)",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p103_334b.jpg",
+  "w": 221,
+  "h": 230
+ },
+ {
+  "page": 103,
+  "fig": "334c",
+  "title": "3.3.4 Foil Crack (External Foil)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p103_334c.jpg",
+  "w": 221,
+  "h": 230
+ },
+ {
+  "page": 104,
+  "fig": "335a",
+  "title": "3.3.5 Plating Crack (Barrel) \u2018\u2018E\u2019\u2019 Crack",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p104_335a.jpg",
+  "w": 305,
+  "h": 328
+ },
+ {
+  "page": 104,
+  "fig": "335b",
+  "title": "3.3.5 Plating Crack (Barrel) \u2018\u2018E\u2019\u2019 Crack",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p104_335b.jpg",
+  "w": 305,
+  "h": 327
+ },
+ {
+  "page": 104,
+  "fig": "335c",
+  "title": "3.3.5 Plating Crack (Barrel) \u2018\u2018E\u2019\u2019 Crack",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p104_335c.jpg",
+  "w": 305,
+  "h": 326
+ },
+ {
+  "page": 105,
+  "fig": "336a",
+  "title": "3.3.6 Plating Crack \u2013 (Corner) \u2018\u2018F\u2019\u2019 Crack",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p105_336a.jpg",
+  "w": 432,
+  "h": 294
+ },
+ {
+  "page": 105,
+  "fig": "336b",
+  "title": "3.3.6 Plating Crack \u2013 (Corner) \u2018\u2018F\u2019\u2019 Crack",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p105_336b.jpg",
+  "w": 434,
+  "h": 288
+ },
+ {
+  "page": 105,
+  "fig": "336c",
+  "title": "3.3.6 Plating Crack \u2013 (Corner) \u2018\u2018F\u2019\u2019 Crack",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p105_336c.jpg",
+  "w": 432,
+  "h": 293
+ },
+ {
+  "page": 106,
+  "fig": "337a",
+  "title": "3.3.7 Plating Nodules",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p106_337a.jpg",
+  "w": 435,
+  "h": 334
+ },
+ {
+  "page": 106,
+  "fig": "337b",
+  "title": "3.3.7 Plating Nodules",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p106_337b.jpg",
+  "w": 435,
+  "h": 338
+ },
+ {
+  "page": 106,
+  "fig": "337c",
+  "title": "3.3.7 Plating Nodules",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p106_337c.jpg",
+  "w": 435,
+  "h": 339
+ },
+ {
+  "page": 107,
+  "fig": "338a",
+  "title": "3.3.8 Copper Plating Thickness \u2013 Hole Wall",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p107_338a.jpg",
+  "w": 434,
+  "h": 294
+ },
+ {
+  "page": 107,
+  "fig": "338b",
+  "title": "3.3.8 Copper Plating Thickness \u2013 Hole Wall",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p107_338b.jpg",
+  "w": 432,
+  "h": 292
+ },
+ {
+  "page": 107,
+  "fig": "338c",
+  "title": "3.3.8 Copper Plating Thickness \u2013 Hole Wall",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p107_338c.jpg",
+  "w": 431,
+  "h": 295
+ },
+ {
+  "page": 108,
+  "fig": "339a",
+  "title": "3.3.9 Copper Wrap Plating",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p108_339a.jpg",
+  "w": 496,
+  "h": 559
+ },
+ {
+  "page": 108,
+  "fig": "339b",
+  "title": "3.3.9 Copper Wrap Plating",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p108_339b.jpg",
+  "w": 496,
+  "h": 393
+ },
+ {
+  "page": 109,
+  "fig": "339c",
+  "title": "3.3.9 Copper Wrap Plating (cont.)",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p109_339c.jpg",
+  "w": 347,
+  "h": 255
+ },
+ {
+  "page": 109,
+  "fig": "339d",
+  "title": "3.3.9 Copper Wrap Plating (cont.)",
+  "cat": "Acceptable - Class 1, 2",
+  "kind": "photo",
+  "file": "work/figs/p109_339d.jpg",
+  "w": 347,
+  "h": 228
+ },
+ {
+  "page": 109,
+  "fig": "339e",
+  "title": "3.3.9 Copper Wrap Plating (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p109_339e.jpg",
+  "w": 347,
+  "h": 193
+ },
+ {
+  "page": 109,
+  "fig": "339f",
+  "title": "3.3.9 Copper Wrap Plating (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p109_339f.jpg",
+  "w": 347,
+  "h": 214
+ },
+ {
+  "page": 110,
+  "fig": "3310a",
+  "title": "3.3.10 Plating Voids",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p110_3310a.jpg",
+  "w": 238,
+  "h": 245
+ },
+ {
+  "page": 110,
+  "fig": "3310b",
+  "title": "3.3.10 Plating Voids",
+  "cat": "Acceptable - Class 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p110_3310b.jpg",
+  "w": 252,
+  "h": 261
+ },
+ {
+  "page": 110,
+  "fig": "3310c",
+  "title": "3.3.10 Plating Voids",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p110_3310c.jpg",
+  "w": 250,
+  "h": 259
+ },
+ {
+  "page": 111,
+  "fig": "3311a",
+  "title": "3.3.11 Solder Coating Thickness (Only When Specified)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p111_3311a.jpg",
+  "w": 149,
+  "h": 227
+ },
+ {
+  "page": 111,
+  "fig": "3311b",
+  "title": "3.3.11 Solder Coating Thickness (Only When Specified)",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p111_3311b.jpg",
+  "w": 124,
+  "h": 200
+ },
+ {
+  "page": 111,
+  "fig": "3311c",
+  "title": "3.3.11 Solder Coating Thickness (Only When Specified)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p111_3311c.jpg",
+  "w": 127,
+  "h": 220
+ },
+ {
+  "page": 112,
+  "fig": "3312a",
+  "title": "3.3.12 Solder Mask Thickness",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p112_3312a.jpg",
+  "w": 115,
+  "h": 59
+ },
+ {
+  "page": 112,
+  "fig": "3312b",
+  "title": "3.3.12 Solder Mask Thickness",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p112_3312b.jpg",
+  "w": 115,
+  "h": 59
+ },
+ {
+  "page": 112,
+  "fig": "3312c",
+  "title": "3.3.12 Solder Mask Thickness",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p112_3312c.jpg",
+  "w": 435,
+  "h": 154
+ },
+ {
+  "page": 112,
+  "fig": "3312d",
+  "title": "3.3.12 Solder Mask Thickness",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p112_3312d.jpg",
+  "w": 115,
+  "h": 57
+ },
+ {
+  "page": 112,
+  "fig": "3312e",
+  "title": "3.3.12 Solder Mask Thickness",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p112_3312e.jpg",
+  "w": 435,
+  "h": 154
+ },
+ {
+  "page": 113,
+  "fig": "3313a",
+  "title": "3.3.13 Wicking",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p113_3313a.jpg",
+  "w": 434,
+  "h": 295
+ },
+ {
+  "page": 113,
+  "fig": "3313b",
+  "title": "3.3.13 Wicking",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p113_3313b.jpg",
+  "w": 434,
+  "h": 281
+ },
+ {
+  "page": 113,
+  "fig": "3313c",
+  "title": "3.3.13 Wicking",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p113_3313c.jpg",
+  "w": 434,
+  "h": 321
+ },
+ {
+  "page": 114,
+  "fig": "33131a",
+  "title": "3.3.13.1 Wicking, Clearance Holes",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p114_33131a.jpg",
+  "w": 496,
+  "h": 311
+ },
+ {
+  "page": 114,
+  "fig": "33131b",
+  "title": "3.3.13.1 Wicking, Clearance Holes",
+  "cat": "Acceptable - Class 3",
+  "kind": "drawing",
+  "file": "work/figs/p114_33131b.jpg",
+  "w": 496,
+  "h": 292
+ },
+ {
+  "page": 114,
+  "fig": "33131c",
+  "title": "3.3.13.1 Wicking, Clearance Holes",
+  "cat": "Acceptable - Class 1",
+  "kind": "drawing",
+  "file": "work/figs/p114_33131c.jpg",
+  "w": 496,
+  "h": 440
+ },
+ {
+  "page": 115,
+  "fig": "3314a",
+  "title": "3.3.14 Innerlayer Separation \u2013 Vertical (Axial) Microsection",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p115_3314a.jpg",
+  "w": 434,
+  "h": 293
+ },
+ {
+  "page": 115,
+  "fig": "3314b",
+  "title": "3.3.14 Innerlayer Separation \u2013 Vertical (Axial) Microsection",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p115_3314b.jpg",
+  "w": 434,
+  "h": 293
+ },
+ {
+  "page": 115,
+  "fig": "3314c",
+  "title": "3.3.14 Innerlayer Separation \u2013 Vertical (Axial) Microsection",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p115_3314c.jpg",
+  "w": 434,
+  "h": 329
+ },
+ {
+  "page": 116,
+  "fig": "3315a",
+  "title": "3.3.15 Innerlayer Separation \u2013 Horizontal (Transverse) Microsection",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p116_3315a.jpg",
+  "w": 435,
+  "h": 295
+ },
+ {
+  "page": 116,
+  "fig": "3315b",
+  "title": "3.3.15 Innerlayer Separation \u2013 Horizontal (Transverse) Microsection",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p116_3315b.jpg",
+  "w": 435,
+  "h": 295
+ },
+ {
+  "page": 116,
+  "fig": "3315c",
+  "title": "3.3.15 Innerlayer Separation \u2013 Horizontal (Transverse) Microsection",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p116_3315c.jpg",
+  "w": 435,
+  "h": 293
+ },
+ {
+  "page": 117,
+  "fig": "3316a",
+  "title": "3.3.16 Material Fill of Blind and Buried Vias",
+  "cat": "Target - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p117_3316a.jpg",
+  "w": 391,
+  "h": 360
+ },
+ {
+  "page": 117,
+  "fig": "3316b",
+  "title": "3.3.16 Material Fill of Blind and Buried Vias",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p117_3316b.jpg",
+  "w": 391,
+  "h": 517
+ },
+ {
+  "page": 118,
+  "fig": "3316c",
+  "title": "3.3.16 Material Fill of Blind and Buried Vias (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p118_3316c.jpg",
+  "w": 392,
+  "h": 547
+ },
+ {
+  "page": 119,
+  "fig": "3317a",
+  "title": "3.3.17 Cap Plating of Filled Holes",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p119_3317a.jpg",
+  "w": 391,
+  "h": 521
+ },
+ {
+  "page": 119,
+  "fig": "3317b",
+  "title": "3.3.17 Cap Plating of Filled Holes",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p119_3317b.jpg",
+  "w": 391,
+  "h": 294
+ },
+ {
+  "page": 120,
+  "fig": "3317c",
+  "title": "3.3.17 Cap Plating of Filled Holes (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p120_3317c.jpg",
+  "w": 392,
+  "h": 294
+ },
+ {
+  "page": 122,
+  "fig": "341a",
+  "title": "3.4.1 Burrs",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p122_341a.jpg",
+  "w": 305,
+  "h": 208
+ },
+ {
+  "page": 122,
+  "fig": "341b",
+  "title": "3.4.1 Burrs",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p122_341b.jpg",
+  "w": 303,
+  "h": 326
+ },
+ {
+  "page": 122,
+  "fig": "341c",
+  "title": "3.4.1 Burrs",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p122_341c.jpg",
+  "w": 304,
+  "h": 329
+ },
+ {
+  "page": 123,
+  "fig": "342a",
+  "title": "3.4.2 Nailheading",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p123_342a.jpg",
+  "w": 434,
+  "h": 338
+ },
+ {
+  "page": 123,
+  "fig": "342b",
+  "title": "3.4.2 Nailheading",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p123_342b.jpg",
+  "w": 434,
+  "h": 338
+ },
+ {
+  "page": 124,
+  "fig": "35a",
+  "title": "Introduction",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p124_35a.jpg",
+  "w": 223,
+  "h": 80
+ },
+ {
+  "page": 124,
+  "fig": "35b",
+  "title": "Introduction",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p124_35b.jpg",
+  "w": 516,
+  "h": 721
+ },
+ {
+  "page": 125,
+  "fig": "351a",
+  "title": "3.5.1 Roughness and Nodules",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p125_351a.jpg",
+  "w": 434,
+  "h": 302
+ },
+ {
+  "page": 125,
+  "fig": "351b",
+  "title": "3.5.1 Roughness and Nodules",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p125_351b.jpg",
+  "w": 434,
+  "h": 303
+ },
+ {
+  "page": 125,
+  "fig": "351c",
+  "title": "3.5.1 Roughness and Nodules",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p125_351c.jpg",
+  "w": 435,
+  "h": 296
+ },
+ {
+  "page": 126,
+  "fig": "352a",
+  "title": "3.5.2 Flare",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p126_352a.jpg",
+  "w": 439,
+  "h": 296
+ },
+ {
+  "page": 126,
+  "fig": "352b",
+  "title": "3.5.2 Flare",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p126_352b.jpg",
+  "w": 435,
+  "h": 295
+ },
+ {
+  "page": 126,
+  "fig": "352c",
+  "title": "3.5.2 Flare",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p126_352c.jpg",
+  "w": 435,
+  "h": 299
+ },
+ {
+  "page": 129,
+  "fig": "411a",
+  "title": "4.1.1 Coverlay Coverage \u2013 Coverfilm Separations",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p129_411a.jpg",
+  "w": 118,
+  "h": 60
+ },
+ {
+  "page": 129,
+  "fig": "411b",
+  "title": "4.1.1 Coverlay Coverage \u2013 Coverfilm Separations",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p129_411b.jpg",
+  "w": 118,
+  "h": 61
+ },
+ {
+  "page": 129,
+  "fig": "411c",
+  "title": "4.1.1 Coverlay Coverage \u2013 Coverfilm Separations",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p129_411c.jpg",
+  "w": 434,
+  "h": 262
+ },
+ {
+  "page": 129,
+  "fig": "411d",
+  "title": "4.1.1 Coverlay Coverage \u2013 Coverfilm Separations",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p129_411d.jpg",
+  "w": 434,
+  "h": 199
+ },
+ {
+  "page": 130,
+  "fig": "4121a",
+  "title": "4.1.2 Coverlay/Covercoat Coverage \u2013 Adhesives",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p130_4121a.jpg",
+  "w": 496,
+  "h": 473
+ },
+ {
+  "page": 130,
+  "fig": "4121b",
+  "title": "4.1.2 Coverlay/Covercoat Coverage \u2013 Adhesives",
+  "cat": "Acceptable - Class 2",
+  "kind": "drawing",
+  "file": "work/figs/p130_4121b.jpg",
+  "w": 496,
+  "h": 273
+ },
+ {
+  "page": 131,
+  "fig": "4122a",
+  "title": "4.1.2.2 Adhesive Squeeze-Out \u2013 Foil Surface",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p131_4122a.jpg",
+  "w": 496,
+  "h": 332
+ },
+ {
+  "page": 131,
+  "fig": "4122b",
+  "title": "4.1.2.2 Adhesive Squeeze-Out \u2013 Foil Surface",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p131_4122b.jpg",
+  "w": 283,
+  "h": 359
+ },
+ {
+  "page": 131,
+  "fig": "4122c",
+  "title": "4.1.2.2 Adhesive Squeeze-Out \u2013 Foil Surface",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p131_4122c.jpg",
+  "w": 283,
+  "h": 212
+ },
+ {
+  "page": 132,
+  "fig": "413a",
+  "title": "4.1.3 Access Hole Registration for Coverlay and Stiffeners",
+  "cat": "(cont) Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p132_413a.jpg",
+  "w": 496,
+  "h": 332
+ },
+ {
+  "page": 132,
+  "fig": "413b",
+  "title": "4.1.3 Access Hole Registration for Coverlay and Stiffeners",
+  "cat": "Acceptable - Class 3",
+  "kind": "drawing",
+  "file": "work/figs/p132_413b.jpg",
+  "w": 496,
+  "h": 261
+ },
+ {
+  "page": 132,
+  "fig": "413c",
+  "title": "4.1.3 Access Hole Registration for Coverlay and Stiffeners",
+  "cat": "Acceptable - Class 1",
+  "kind": "drawing",
+  "file": "work/figs/p132_413c.jpg",
+  "w": 496,
+  "h": 456
+ },
+ {
+  "page": 133,
+  "fig": "414a",
+  "title": "4.1.4 Plating Defects",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p133_414a.jpg",
+  "w": 431,
+  "h": 138
+ },
+ {
+  "page": 133,
+  "fig": "414b",
+  "title": "4.1.4 Plating Defects",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p133_414b.jpg",
+  "w": 432,
+  "h": 431
+ },
+ {
+  "page": 133,
+  "fig": "414c",
+  "title": "4.1.4 Plating Defects",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p133_414c.jpg",
+  "w": 432,
+  "h": 429
+ },
+ {
+  "page": 134,
+  "fig": "415a",
+  "title": "4.1.5 Stiffener Bonding",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p134_415a.jpg",
+  "w": 496,
+  "h": 311
+ },
+ {
+  "page": 135,
+  "fig": "416a",
+  "title": "4.1.6 Transition Zone, Rigid Area to Flexible Area",
+  "cat": "(cont) Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p135_416a.jpg",
+  "w": 496,
+  "h": 516
+ },
+ {
+  "page": 135,
+  "fig": "416b",
+  "title": "4.1.6 Transition Zone, Rigid Area to Flexible Area",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p135_416b.jpg",
+  "w": 347,
+  "h": 445
+ },
+ {
+  "page": 136,
+  "fig": "417a",
+  "title": "4.1.7 Solder Wicking/Plating Penetration Under Coverlay",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p136_417a.jpg",
+  "w": 437,
+  "h": 242
+ },
+ {
+  "page": 136,
+  "fig": "417b",
+  "title": "4.1.7 Solder Wicking/Plating Penetration Under Coverlay",
+  "cat": "Acceptable - Class 3",
+  "kind": "photo",
+  "file": "work/figs/p136_417b.jpg",
+  "w": 437,
+  "h": 240
+ },
+ {
+  "page": 136,
+  "fig": "417c",
+  "title": "4.1.7 Solder Wicking/Plating Penetration Under Coverlay",
+  "cat": "Acceptable - Class 1",
+  "kind": "photo",
+  "file": "work/figs/p136_417c.jpg",
+  "w": 437,
+  "h": 240
+ },
+ {
+  "page": 137,
+  "fig": "418a",
+  "title": "4.1.8 Laminate Integrity",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p137_418a.jpg",
+  "w": 496,
+  "h": 624
+ },
+ {
+  "page": 138,
+  "fig": "4181a",
+  "title": "4.1.8.1 Laminate Integrity \u2013 Flexible Printed Board",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p138_4181a.jpg",
+  "w": 496,
+  "h": 473
+ },
+ {
+  "page": 139,
+  "fig": "4182a",
+  "title": "4.1.8.2 Laminate Integrity \u2013 Rigid-Flex Printed Board",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p139_4182a.jpg",
+  "w": 158,
+  "h": 277
+ },
+ {
+  "page": 140,
+  "fig": "419a",
+  "title": "4.1.9 Etchback (Type 3 and Type 4 Only)",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p140_419a.jpg",
+  "w": 496,
+  "h": 592
+ },
+ {
+  "page": 141,
+  "fig": "4110a",
+  "title": "4.1.10 Smear Removal (Type 3 and 4 Only)",
+  "cat": null,
+  "kind": "drawing",
+  "file": "work/figs/p141_4110a.jpg",
+  "w": 496,
+  "h": 635
+ },
+ {
+  "page": 142,
+  "fig": "4111a",
+  "title": "4.1.11 Trimmed Edges/Edge Delamination",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p142_4111a.jpg",
+  "w": 436,
+  "h": 136
+ },
+ {
+  "page": 142,
+  "fig": "4111b",
+  "title": "4.1.11 Trimmed Edges/Edge Delamination",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p142_4111b.jpg",
+  "w": 496,
+  "h": 148
+ },
+ {
+  "page": 142,
+  "fig": "4111c",
+  "title": "4.1.11 Trimmed Edges/Edge Delamination",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p142_4111c.jpg",
+  "w": 435,
+  "h": 154
+ },
+ {
+  "page": 142,
+  "fig": "4111d",
+  "title": "4.1.11 Trimmed Edges/Edge Delamination",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p142_4111d.jpg",
+  "w": 496,
+  "h": 526
+ },
+ {
+  "page": 143,
+  "fig": "4111e",
+  "title": "4.1.11 Trimmed Edges/Edge Delamination (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p143_4111e.jpg",
+  "w": 434,
+  "h": 132
+ },
+ {
+  "page": 143,
+  "fig": "4111f",
+  "title": "4.1.11 Trimmed Edges/Edge Delamination (cont.)",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p143_4111f.jpg",
+  "w": 496,
+  "h": 175
+ },
+ {
+  "page": 144,
+  "fig": "4112a",
+  "title": "4.1.12 Fold/Bend Marks",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p144_4112a.jpg",
+  "w": 435,
+  "h": 331
+ },
+ {
+  "page": 144,
+  "fig": "4112b",
+  "title": "4.1.12 Fold/Bend Marks",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p144_4112b.jpg",
+  "w": 435,
+  "h": 338
+ },
+ {
+  "page": 145,
+  "fig": "4113a",
+  "title": "4.1.13 Silver Film Integrity",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p145_4113a.jpg",
+  "w": 434,
+  "h": 372
+ },
+ {
+  "page": 145,
+  "fig": "4113b",
+  "title": "4.1.13 Silver Film Integrity",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p145_4113b.jpg",
+  "w": 427,
+  "h": 339
+ },
+ {
+  "page": 146,
+  "fig": "4113c",
+  "title": "4.1.13 Silver Film Integrity (cont.)",
+  "cat": "(cont) Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p146_4113c.jpg",
+  "w": 435,
+  "h": 342
+ },
+ {
+  "page": 148,
+  "fig": "421a",
+  "title": "4.2.1 Type Classifications",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p148_421a.jpg",
+  "w": 284,
+  "h": 129
+ },
+ {
+  "page": 148,
+  "fig": "421b",
+  "title": "4.2.1 Type Classifications",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p148_421b.jpg",
+  "w": 277,
+  "h": 147
+ },
+ {
+  "page": 148,
+  "fig": "421c",
+  "title": "4.2.1 Type Classifications",
+  "cat": null,
+  "kind": "photo",
+  "file": "work/figs/p148_421c.jpg",
+  "w": 295,
+  "h": 80
+ },
+ {
+  "page": 149,
+  "fig": "422a",
+  "title": "4.2.2 Spacing Laminated Type",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p149_422a.jpg",
+  "w": 496,
+  "h": 321
+ },
+ {
+  "page": 149,
+  "fig": "422b",
+  "title": "4.2.2 Spacing Laminated Type",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p149_422b.jpg",
+  "w": 496,
+  "h": 326
+ },
+ {
+  "page": 149,
+  "fig": "422c",
+  "title": "4.2.2 Spacing Laminated Type",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p149_422c.jpg",
+  "w": 496,
+  "h": 326
+ },
+ {
+  "page": 150,
+  "fig": "423a",
+  "title": "4.2.3 Insulation Thickness, Insulated Metal Substrate",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p150_423a.jpg",
+  "w": 282,
+  "h": 113
+ },
+ {
+  "page": 150,
+  "fig": "423b",
+  "title": "4.2.3 Insulation Thickness, Insulated Metal Substrate",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p150_423b.jpg",
+  "w": 282,
+  "h": 97
+ },
+ {
+  "page": 150,
+  "fig": "423c",
+  "title": "4.2.3 Insulation Thickness, Insulated Metal Substrate",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p150_423c.jpg",
+  "w": 282,
+  "h": 78
+ },
+ {
+  "page": 151,
+  "fig": "424a",
+  "title": "4.2.4 Insulation Material Fill, Laminated Type Metal Core",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p151_424a.jpg",
+  "w": 496,
+  "h": 321
+ },
+ {
+  "page": 151,
+  "fig": "424b",
+  "title": "4.2.4 Insulation Material Fill, Laminated Type Metal Core",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p151_424b.jpg",
+  "w": 496,
+  "h": 348
+ },
+ {
+  "page": 151,
+  "fig": "424c",
+  "title": "4.2.4 Insulation Material Fill, Laminated Type Metal Core",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p151_424c.jpg",
+  "w": 496,
+  "h": 347
+ },
+ {
+  "page": 152,
+  "fig": "425a",
+  "title": "4.2.5 Cracks in Insulation Material Fill, Laminated Type",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "drawing",
+  "file": "work/figs/p152_425a.jpg",
+  "w": 496,
+  "h": 321
+ },
+ {
+  "page": 152,
+  "fig": "425b",
+  "title": "4.2.5 Cracks in Insulation Material Fill, Laminated Type",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p152_425b.jpg",
+  "w": 187,
+  "h": 187
+ },
+ {
+  "page": 152,
+  "fig": "425c",
+  "title": "4.2.5 Cracks in Insulation Material Fill, Laminated Type",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p152_425c.jpg",
+  "w": 187,
+  "h": 187
+ },
+ {
+  "page": 153,
+  "fig": "426a",
+  "title": "4.2.6 Core Bond to Plated-Through Hole Wall",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p153_426a.jpg",
+  "w": 434,
+  "h": 294
+ },
+ {
+  "page": 153,
+  "fig": "426b",
+  "title": "4.2.6 Core Bond to Plated-Through Hole Wall",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p153_426b.jpg",
+  "w": 433,
+  "h": 296
+ },
+ {
+  "page": 153,
+  "fig": "426c",
+  "title": "4.2.6 Core Bond to Plated-Through Hole Wall",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p153_426c.jpg",
+  "w": 433,
+  "h": 308
+ },
+ {
+  "page": 154,
+  "fig": "431a",
+  "title": "Introduction",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p154_431a.jpg",
+  "w": 435,
+  "h": 264
+ },
+ {
+  "page": 154,
+  "fig": "431b",
+  "title": "Introduction",
+  "cat": "Acceptable - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p154_431b.jpg",
+  "w": 435,
+  "h": 263
+ },
+ {
+  "page": 154,
+  "fig": "431c",
+  "title": "Introduction",
+  "cat": "Nonconforming - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p154_431c.jpg",
+  "w": 435,
+  "h": 261
+ },
+ {
+  "page": 157,
+  "fig": "511a",
+  "title": "5.1.1 Plated-Through Holes (Applicable to Test C/C1)",
+  "cat": "Target Condition - Class 1, 2, 3",
+  "kind": "photo",
+  "file": "work/figs/p157_511a.jpg",
+  "w": 129,
+  "h": 106
+ },
+ {
+  "page": 157,
+  "fig": "511b",
+  "title": "5.1.1 Plated-Through Holes (Applicable to Test C/C1)",
+  "cat": "Acceptable - Class 3",
+  "kind": "drawing",
+  "file": "work/figs/p157_511b.jpg",
+  "w": 496,
+  "h": 261
+ },
+ {
+  "page": 157,
+  "fig": "511c",
+  "title": "5.1.1 Plated-Through Holes (Applicable to Test C/C1)",
+  "cat": "Acceptable - Class 1, 2",
+  "kind": "drawing",
+  "file": "work/figs/p157_511c.jpg",
+  "w": 496,
+  "h": 542
+ }
+]
